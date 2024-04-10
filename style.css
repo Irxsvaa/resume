@@ -1,0 +1,23 @@
+
+body{
+    background-color: lightblue;
+    display:flex;
+    justify-content: center; 
+    align-items: center;
+    min-height: 100vh;
+
+}
+.container{
+    position:relative;
+    width:100%;
+    max-width: 1000px;
+    background: white;
+    
+    
+}
+
+div {
+    height: px;
+    width: 50%;
+    background-color: rgb(26, 75, 82);
+}
