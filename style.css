@@ -1,9 +1,12 @@
+*{
+   margin: auto; 
 
+}
 body{
     background-color: lightblue;
     display:flex;
-    justify-content: center; 
-    align-items: center;
+    justify-content:center; 
+    align-items:center ;
     min-height: 100vh;
 
 }
@@ -16,8 +19,15 @@ body{
     
 }
 
-div {
-    height: px;
-    width: 50%;
-    background-color: rgb(26, 75, 82);
+div .profileText{
+    height: 800px;
+    width: 300px;
+    background-color: rgb(123, 171, 179);
+    padding: 8px;
+    position: static; 
+    
+    
 }
+
+
+
