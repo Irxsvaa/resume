@@ -33,5 +33,14 @@ div .profileText{
     
 }
 
+div .rightSide{
+    height:250px;
+    width:300px;
+    position: absolute;
+    left: 330px;
+    top:100px;
+
+}
+
 
 
