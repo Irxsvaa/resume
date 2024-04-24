@@ -1,5 +1,8 @@
 *{
    margin: auto; 
+   font-family: 'Courier New', Courier, monospace;
+   
+
 
 }
 body{
@@ -35,11 +38,15 @@ div .profileText{
 
 div .rightSide{
     height:250px;
-    width:300px;
+    width:400px;
     position: absolute;
     left: 330px;
     top:100px;
 
+}
+div .rightSide h1 {
+    font-size: 30px;
+    
 }
 
 
