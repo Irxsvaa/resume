@@ -4,17 +4,16 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(166, 198, 209);
-    display: flex;
+    background-color: rgb(40, 74, 97);
+    display:flex;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin-top: 150px;
-    margin-bottom: 200px;
+    margin: 50px 0; 
+   
+    
 }
-
 .container {
     max-width: 800px;
     width: 100%;
@@ -22,6 +21,7 @@ body {
     padding: 10px;
     border: 2px solid rgb(166, 198, 209); /* Blue border */
     border-radius: 10px;
+    
 }
 
 .profileText {
